@@ -30,8 +30,8 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <h1 align="center">
 <a href="https://github.com/WilsonFA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonFAB&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFA&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonFA&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFA&theme=radical&layout=compact" />
 </a>
 </h1>
 
