@@ -3,6 +3,14 @@
 </p>
 
 <h1 align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;👩‍💻Im+Wilson+Fernandes....;Nice+to+meet+you!;&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=やあ+みんな。+👋;👩‍💻+私はウィルソンです......;初めまして！&center=true&size=25">
+</a>
+</h1>
+
+
+<h1 align="center">
  
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
