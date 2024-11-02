@@ -9,13 +9,11 @@
 </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.instagram.com/uiilsu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    <a href="https://www.linkedin.com/in/wilson-fernandes-uilsu/""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </code>
-</h5>
+<h1 align="center">
+ 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-fernandes-uilsu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uiilsu/)
+</h1>
 
 <hr>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
