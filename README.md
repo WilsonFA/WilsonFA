@@ -3,15 +3,17 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;👩‍💻Im+Wilson+Fernandes....;Nice+to+meet+you!;&center=true&size=25">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=やあ+みんな。+👋;👩‍💻+私はウィルソンです......;初めまして！&center=true&size=25">
-  </a>
+ 
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.instagram.com/uiilsu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank">
+    <a href="https://www.instagram.com/uiilsu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     <a href="https://www.linkedin.com/in/wilson-fernandes-uilsu/""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </code>
