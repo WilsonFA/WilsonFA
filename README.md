@@ -165,7 +165,7 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   title="spine2d"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cledara-public.s3.eu-west-2.amazonaws.com/spine_badge.png"    
+  src="https://en.esotericsoftware.com/files/branding/spine_badge.svg"    
 /> 
 </div>
 
