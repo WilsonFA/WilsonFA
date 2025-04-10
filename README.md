@@ -36,7 +36,11 @@
 </a>
 </h1>
 
+<div align=center>
+
 <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
