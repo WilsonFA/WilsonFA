@@ -38,7 +38,7 @@
 
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation" />
 
 </div>
 
