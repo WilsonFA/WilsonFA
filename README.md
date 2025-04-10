@@ -165,7 +165,7 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   title="spine2d"
   width="40px"
   style="padding-right: 10px;"
-  src="   
+  src="icons\spine_badgse.svg" 
 /> 
 </div>
 
