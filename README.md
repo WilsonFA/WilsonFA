@@ -38,8 +38,8 @@
 
 <div align=center>
 
-  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" style="max-width: 100%;">
+  
 </div>
 
 <p align="left">
