@@ -11,32 +11,175 @@
 
 **`2D Animator`** | **`Game Designer`** | **`Tech Artist`**
 
-<h1 align="center">
+My name is Wilson Fernandes, known online as "[Uilsu](https://www.linkedin.com/in/wilson-fernandes-uilsu/)". I've been working as a 2D animator for games and films for over 5 years, taking part in various projects, and I have over a year of experience as a Game Designer at Wagou Games, where I’m a co-founder. As a 2D animator, I worked on a Japanese feature film, leading a team of artists and an international studio.
+
+Currently, I’m specializing in Tech Art with a focus on Unity.
+
+I hold two degrees from UNINTER — one in Animation Design and another in Game Design — and I'm currently taking a postgraduate MBA in Game Design.
+
+
+<div align="center">
  
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-fernandes-uilsu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uiilsu/)
-</h1>
 
-<hr>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<h5 align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="gdscript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="45" height="45" />
-</p>
-<hr>
+</div>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<h1 align="center">
+
+---
+
+
+<div>
+
+### 🚀 Languages and Technologies
+<img
+  align=left
+  alt="c#"
+  title="c#"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img
+  align=left
+  alt="python"
+  title="python"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"        
+/> 
+<img
+  align=left
+  alt="git"
+  title="git"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"     
+/> 
+<img
+  align=left
+  alt="vscode"
+  title="vscode"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"                
+/> 
+<img
+  align=left
+  alt="html"
+  title="html"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      
+/> 
+<img
+  align=left
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"       
+/> 
+<img
+  align=left
+  alt="javascript"
+  title="javascript"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
+/> 
+</div>
+
+<br><br>
+---
+<div>
+
+### 🚀 Game Engines and Design Tools
+<img
+  align=left
+  alt="unity"
+  title="unity"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+/>
+<img
+  align=left
+  alt="gamemaker"
+  title="gamemaker"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763"        
+/> 
+<img
+  align=left
+  alt="godot"
+  title="godot"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"     
+/> 
+<img
+  align=left
+  alt="photoshop"
+  title="photoshop"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg"   
+/> 
+<img
+  align=left
+  alt="illustrator"
+  title="illustrator"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg"         
+/> 
+<img
+  align=left
+  alt="after effects"
+  title="after effects"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://adobe.io/shared/icons/ae_appicon_64.svg"        
+/> 
+<img
+  align=left
+  alt="figma"
+  title="figma"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"        
+/> 
+<img
+  align=left
+  alt="blender"
+  title="blender"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
+/>
+<img
+  align=left
+  alt="spine2d"
+  title="spine2d"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cledara-public.s3.eu-west-2.amazonaws.com/spine_badge.png"    
+/> 
+</div>
+
+<br><br>
+---
+
+### 📈 My GitHub History!
+<div align=center>
+
 <a href="https://github.com/WilsonFA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonFA&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFA&theme=tokyonight&layout=compact" />
 </a>
-</h1>
+</div>
 
 <div align=center>
 
