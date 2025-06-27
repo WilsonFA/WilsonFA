@@ -109,7 +109,7 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   title="gamemaker"
   width="40px"
   style="padding-right: 10px;"
-  src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg"        
+  src="icons\game-maker.svg"        
 /> 
 <img
   align=left
