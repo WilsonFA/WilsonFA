@@ -109,7 +109,7 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   title="gamemaker"
   width="40px"
   style="padding-right: 10px;"
-  src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763"        
+  src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg"        
 /> 
 <img
   align=left
