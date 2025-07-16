@@ -94,7 +94,7 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   title="jgithub desktop"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
+  src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"       
 /> 
 </div>
 
