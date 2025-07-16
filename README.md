@@ -88,6 +88,14 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
 /> 
+<img
+  align=left
+  alt="github desktop"
+  title="jgithub desktop"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
+/> 
 </div>
 
 <br><br>
