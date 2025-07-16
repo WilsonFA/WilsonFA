@@ -9,7 +9,7 @@
 </a>
 </h1>
 
-**`2D Animator`** | **`Game Designer`** | **`Tech Artist`**
+**`Tech Artist`** | **`2D Animator`** | **`Game Developer @ Wagou Games`**
 
 My name is Wilson Fernandes, known online as "[Uilsu](https://www.linkedin.com/in/wilson-fernandes-uilsu/)". I've been working as a 2D animator for games and films for over 5 years, taking part in various projects, and I have over a year of experience as a Game Designer at Wagou Games, where I’m a co-founder. As a 2D animator, I worked on a Japanese feature film, leading a team of artists and an international studio.
 
