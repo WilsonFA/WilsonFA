@@ -40,14 +40,14 @@ I hold two degrees from UNINTER — one in Animation Design and another in Game 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
-<img
+<!--<img
   align=left
   alt="python"
   title="python"
   width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"        
-/> 
+/> -->
 <img
   align=left
   alt="git"
